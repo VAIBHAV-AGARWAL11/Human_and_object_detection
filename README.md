@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 The **AI-Based Human Detection Monitoring System** is a real-time computer vision application designed to automate human presence monitoring through a live camera feed.
 
@@ -16,7 +16,7 @@ This project was developed as part of my **Summer Internship at Hindustan Zinc L
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 The primary objectives of the project are:
 
@@ -31,7 +31,7 @@ The primary objectives of the project are:
 
 ---
 
-## 🏭 Industrial Application
+##  Industrial Application
 
 In industrial environments, continuous surveillance of specific areas can be important for security and operational monitoring.
 
@@ -50,7 +50,7 @@ Traditional CCTV systems generally require personnel to continuously observe mul
 
 ---
 
-## 🔄 System Workflow
+##  System Workflow
 
 ```text
                 ┌───────────────────────┐
