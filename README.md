@@ -1,4 +1,4 @@
-# AI-Based Human Detection Monitoring System for Industrial Surveillance
+# AI-Based Human Detection Monitoring System for Industrial Surveillance.
 
 > An AI-powered real-time human detection, tracking, and automated alert system developed during my **Summer Internship at Hindustan Zinc Limited**.
 
